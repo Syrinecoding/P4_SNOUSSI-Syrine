@@ -683,7 +683,7 @@ a {
 } */
 
 .tight-width-whitespace {
-    /* max-width: 600px; */
+    max-width: 600px;
     text-align: center;
     margin: auto auto auto auto;
 }
