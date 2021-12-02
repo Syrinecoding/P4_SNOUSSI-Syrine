@@ -276,6 +276,8 @@ a:hover {
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
+    display: flex;
+    justify-content: space-around;
 }
 
 .row.row-no-gutters > [class^="col-"],
@@ -1004,6 +1006,7 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
+
     .bloc-tile-2 .container,
     .bloc-tile-3 .container,
     .bloc-tile-4 .container,
