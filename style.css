@@ -683,7 +683,7 @@ a {
 } */
 
 .tight-width-whitespace {
-    /* max-width: 600px; */
+    max-width: 600px;
     text-align: center;
     margin: auto auto auto auto;
 }
@@ -741,7 +741,9 @@ h4 {
 .white {
     color: #FFFFFF!important;
 }
-
+.mobil-width {
+    width: 100%;
+}
 .portfolio-thumb {
     margin-bottom: 24px;
 }
@@ -827,11 +829,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
+    background-image: url("img/la-chouette-agence-banniereCP.jpg");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentationCP.jpg");
 }
 
 @media (max-width: 1024px) {
