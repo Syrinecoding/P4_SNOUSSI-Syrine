@@ -768,7 +768,13 @@ h4 {
 .bgc-white {
     background-color: #FFFFFF;
 }
-
+.citation {
+    width: 70%;
+    font-size: 22px;
+    font-style: italic;
+    margin: 10px auto;
+    /* text-align: center; */
+}
 .bgc-dark-slate-blue {
     background-color: #364577;
 }
