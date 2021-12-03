@@ -686,9 +686,12 @@ a {
     margin: auto auto auto auto;
 }
 
-/* p {
-    font-size: 11px;
-} */
+p {
+    font-size: 16px;
+}
+.bold {
+    font-weight: bold;
+}
 
 .tight-width-whitespace {
     max-width: 600px;
@@ -843,7 +846,10 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentationCP.jpg");
 }
-
+address {
+    font-size : 18px;
+    color: #575757;
+}
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
