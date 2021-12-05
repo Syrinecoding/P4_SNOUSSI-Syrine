@@ -999,8 +999,8 @@ address {
         margin-left: 10px;
     }
     .bloc {
-        padding-left: 15;
-        padding-right: 15;
+        padding-left: 15pc;
+        padding-right: 15px;
     }
     .bloc-xxl,
     .bloc-xl,
@@ -1056,8 +1056,8 @@ address {
 
 @media (max-width: 400px) {
     .bloc {
-        padding-left: 10;
-        padding-right: 10;
+        padding-left: 10px;
+        padding-right: 10px;
     }
 }
 
