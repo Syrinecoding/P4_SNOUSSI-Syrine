@@ -916,6 +916,9 @@ address {
 address {
     padding-left: 15px;
 }
+.chevron {
+    display: none;
+}
 @media (max-width: 767px) {
     .page-container {
         overflow-x: hidden;
