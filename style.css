@@ -849,7 +849,9 @@ h4 {
 address {
     font-size : 18px;
     color: #575757;
+    padding-left: 15px;
 }
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
@@ -912,10 +914,9 @@ address {
         /* padding-left: constant(safe-area-inset-left);
         padding-right: constant(safe-area-inset-right); */
     }
+    
 }
-address {
-    padding-left: 15px;
-}
+
 .chevron {
     display: none;
 }
