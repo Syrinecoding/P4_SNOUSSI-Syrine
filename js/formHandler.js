@@ -1,6 +1,6 @@
 $(function()
-{	const success_msg = "Your message has been sent.",
-		fail_msg = "Sorry it seems that our mail server is not responding, Sorry for the inconvenience!";
+{	const success_msg = "Votre message a été envoyé.",
+		fail_msg = "Désolé, il semble que notre serveur mail ne réponde pas. Nous nous excusons pour le désagrément occasionné !";
 		
 	$("input,textarea").jqBootstrapValidation(
     {
